@@ -1,13 +1,13 @@
-import { Logo } from './Logo';
-import { Heading } from './components/Heading';
-import { Text } from './components/Text';
-import { TextInput } from './components/TextInput';
-
 import { Envelope, Lock } from 'phosphor-react';
 
-import './styles/global.css';
+import { Logo } from './Logo';
+import { Text } from './components/Text';
+import { Heading } from './components/Heading';
+import { TextInput } from './components/TextInput';
 import { Checkbox } from './components/Checkbox';
 import { Button } from './components/Button';
+
+import './styles/global.css';
 
 export function App() {
   return (
