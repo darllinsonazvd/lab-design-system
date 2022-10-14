@@ -2,8 +2,8 @@ import './styles/global.css';
 
 export function App() {
   return (
-    <div>
-      <h1 className="font-bold text-5xl text-violet-500">Hello World!</h1>
+    <div className="w-full h-screen bg-gray-900">
+      <h1 className="font-bold text-2xl text-cyan-500">Hello World!</h1>
     </div>
   );
 }
